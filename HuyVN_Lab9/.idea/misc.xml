@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/drawable/ic_add_svgrepo_com.xml" value="0.136" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/drawable/ic_trash_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/congviec_xml.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/dialog_them_cong_viec.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/dialog_update_cv.xml" value="0.25" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/dynamic_congviec.xml" value="0.1" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/layout/ic_add_svgrepo_com.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/neopi/AndroidStudioProjects/HuyVN_Lab9/app/src/main/res/menu/add_congviec.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

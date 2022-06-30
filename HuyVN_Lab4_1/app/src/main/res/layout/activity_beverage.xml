@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BeverageActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="95dp"
+        android:text="Hãy chọn đồ uống!"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+
+        <CheckBox
+            android:id="@+id/cbPepsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pepsi" />
+
+        <CheckBox
+            android:id="@+id/cbHeineken"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Heineken" />
+
+        <CheckBox
+            android:id="@+id/cbTiger"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tiger" />
+
+        <CheckBox
+            android:id="@+id/cbSaiGonDo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sài Gòn Đỏ" />
+
+        <Button
+            android:id="@+id/btnDatNuoc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="85dp"
+            android:text="Đặt Nước" />
+
+    </LinearLayout>
+
+</RelativeLayout>

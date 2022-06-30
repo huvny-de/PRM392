@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="95dp"
+        android:text="Hãy chọn thức ăn!"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:gravity="center"
+
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+
+
+        <CheckBox
+            android:id="@+id/cbPho"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Phở Hà Nội" />
+
+        <CheckBox
+            android:id="@+id/cbBunBo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bún Bò Huế" />
+
+        <CheckBox
+            android:id="@+id/cbMiQuang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mì Quảng" />
+
+        <CheckBox
+            android:id="@+id/cbHuTiu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hủ Tiếu Sài Gòn" />
+
+        <Button
+            android:id="@+id/btnDatMon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Đặt món" />
+
+    </LinearLayout>
+
+</RelativeLayout>
